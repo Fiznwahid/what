@@ -1,5 +1,5 @@
 // Tanggal dan waktu yang dituju (2 November 2023 jam 20:30)
-var targetDate = new Date('2024-08-24T17:00:00Z');
+var targetDate = new Date('2024-08-23T17:00:00Z');
 
 var countdown = setInterval(function() {
     var currentDate = new Date();
